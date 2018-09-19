@@ -1,0 +1,3 @@
+rootProject.name = 'JudgeApp'
+
+include ':app'
